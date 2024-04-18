@@ -53,7 +53,7 @@ export const ContractAddress = {
     padding: '10px',
     borderRadius: '3px',
     width: 'auto',
-    marginBottom: '10px'
+    marginBottom: '10px',
 };
 
 export const WrapRight = {
